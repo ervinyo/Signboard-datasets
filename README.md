@@ -1,3 +1,1 @@
 # Signboard Datasets
-# Introduction
-# License
