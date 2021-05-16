@@ -13,7 +13,8 @@
 
 # Overview
 our dataset is a signboard dataset containing 29,727 images with VOC annotation format and a resolution of 500 × 400 pixels. Our dataset consists of 14 classes of store logos, including Carrefour, Domino, Family Mart, Gas, Hi-Life, KFC, McDonald, Mos Burger, Ok Mart, Post, Pxmart, 7-ELEVEN, Starbucks, and Wellcome.
-<img src="">
+
+<img src="img2.png">
 
 # Download
 The link for download the datasets as follow :
