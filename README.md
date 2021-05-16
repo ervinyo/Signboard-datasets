@@ -5,6 +5,7 @@
 <p align="center">Department of Computer Science and Information Engineering, National Central University, Taoyuan City 32001, Taiwan</p>
 <p align="center">Department of Electrical Engineering, Yuan-Ze University, Taoyuan City 32003, Taiwan</p>
 <p align="center">Faculty of Computer Science, University of Brawijaya, Malang City 65145, Indonesia</p>
+<img src="drawing1.png">
 -->
 
 # Abstract
@@ -12,6 +13,7 @@
 
 # Overview
 our dataset is a signboard dataset containing 29,727 images with VOC annotation format and a resolution of 500 × 400 pixels. Our dataset consists of 14 classes of store logos, including Carrefour, Domino, Family Mart, Gas, Hi-Life, KFC, McDonald, Mos Burger, Ok Mart, Post, Pxmart, 7-ELEVEN, Starbucks, and Wellcome.
+<img src="">
 
 # Download
 The link for download the datasets as follow :
