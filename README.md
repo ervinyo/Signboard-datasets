@@ -33,8 +33,8 @@ The comparison results for SSD, YOLOv2, YOLOv3, YOLOv4, and our proposed method 
     <th>Our proposed method II</th>
   </tr>
   <tr>
-    <td><img src="Signboard-datasets/Results/7-11/SSDs.png"></td>
-    <td><img src="Signboard-datasets/Results/7-11/YOLOv2s.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/SSDs.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/YOLOv2s.png"></td>
     <td><img src="Signboard-datasets/Results/7-11/YOLOv3s.png"></td>
     <td><img src="Signboard-datasets/Results/7-11/YOLOv4s.png"></td>
     <td><img src="Signboard-datasets/Results/7-11/propose1s.png"></td>
