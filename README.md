@@ -33,9 +33,12 @@ The comparison results for SSD, YOLOv2, YOLOv3, YOLOv4, and our proposed method 
     <th>Our proposed method II</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td><img src="Signboard-datasets/Results/7-11/SSDs.png"></td>
+    <td><img src="Signboard-datasets/Results/7-11/YOLOv2s.png"></td>
+    <td><img src="Signboard-datasets/Results/7-11/YOLOv3s.png"></td>
+    <td><img src="Signboard-datasets/Results/7-11/YOLOv4s.png"></td>
+    <td><img src="Signboard-datasets/Results/7-11/propose1s.png"></td>
+    <td><img src="Signboard-datasets/Results/7-11/propose2s.png"></td>
   </tr>
   <tr>
     <td>Eve</td>
