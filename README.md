@@ -35,15 +35,42 @@ The comparison results for SSD, YOLOv2, YOLOv3, YOLOv4, and our proposed method 
   <tr>
     <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/SSDs.png"></td>
     <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/YOLOv2s.png"></td>
-    <td><img src="Signboard-datasets/Results/7-11/YOLOv3s.png"></td>
-    <td><img src="Signboard-datasets/Results/7-11/YOLOv4s.png"></td>
-    <td><img src="Signboard-datasets/Results/7-11/propose1s.png"></td>
-    <td><img src="Signboard-datasets/Results/7-11/propose2s.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/YOLOv3s.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/YOLOv4s.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/propose1s.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/7-11/propose2s.png"></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Hi Life/SSDh.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Hi Life/YOLOv2h.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Hi Life/YOLOv3h.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Hi Life/YOLOv4h.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Hi Life/propose1h.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Hi Life/propose2h.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/OkMart/SSDo.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/OkMart/YOLOv2o.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/OkMart/YOLOv3o.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/OkMart/YOLOv4o.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/OkMart/propose1o.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/OkMart/propose2o.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Family Mart/SSDf.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Family Mart/YOLOv2f.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Family Mart/YOLOv3f.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Family Mart/YOLOv4f.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Family Mart/propose1f.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/Family Mart/propose2f.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/BSVSO/SSD64.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/BSVSO/YOLOv264.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/BSVSO/YOLOv364.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/BSVSO/YOLOv464.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/BSVSO/propose164.png"></td>
+    <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/BSVSO/propose264.png"></td>
   </tr>
 </table>
 
