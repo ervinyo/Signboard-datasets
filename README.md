@@ -21,5 +21,28 @@ The link for download the datasets and annotations as follow :
 
 <a href="https://drive.google.com/drive/folders/1tElCRmh5O18gq_iTTMrTlSwgH1zvJKmV?usp=sharing">Download Datasets</a>
 
+# Results
+The comparison results for SSD, YOLOv2, YOLOv3, YOLOv4, and our proposed method are shown in below
+<table style="width:100%">
+  <tr>
+    <th>SSD</th>
+    <th>YOLOv2</th>
+    <th>YOLOv3</th>
+    <th>YOLOv4</th>
+    <th>Our proposed method I</th>
+    <th>Our proposed method II</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
 # Citation
 If you use this dataset in your research, please include the following citation in any published results.
