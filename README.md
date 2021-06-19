@@ -24,6 +24,7 @@ The link for download the datasets and annotations as follow :
 <a href="https://drive.google.com/drive/folders/1tElCRmh5O18gq_iTTMrTlSwgH1zvJKmV?usp=sharing">Download Datasets</a>
 
 # Results
+<!-- Write your comments here 
 The comparison results for SSD, YOLOv2, YOLOv3, YOLOv4, and our proposed method are shown in below
 <table style="width:100%">
   <tr>
@@ -75,6 +76,6 @@ The comparison results for SSD, YOLOv2, YOLOv3, YOLOv4, and our proposed method 
     <td><img src="https://github.com/ervinyo/Signboard-datasets/blob/main/Results/BSVSO/propose264.png"></td>
   </tr>
 </table>
-
+-->
 # Citation
 If you use this dataset in your research, please include the following citation in any published results.
