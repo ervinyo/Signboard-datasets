@@ -2,9 +2,12 @@
 
 <p align="center">Domain Adaptation Deep Attention Network for Automatic Logo Detection and Recognition in Google Street View</p>
 <p align="center">Ervin Yohannes, Chih-Yang Lin, Timothy K. Shih, Chen-Ya Hong, Avirmed Enkhbat, Fitri Utaminingrum</p>
+<br>
+<!--
 <p align="center">Department of Computer Science and Information Engineering, National Central University, Taoyuan City 32001, Taiwan</p>
 <p align="center">Department of Electrical Engineering, Yuan-Ze University, Taoyuan City 32003, Taiwan</p>
 <p align="center">Faculty of Computer Science, University of Brawijaya, Malang City 65145, Indonesia</p>
+-->
 <img src="drawing1.png">
 
 
