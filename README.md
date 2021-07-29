@@ -85,13 +85,13 @@ The comparison results for SSD, YOLOv2, YOLOv3, YOLOv4, and our proposed method 
 # Citation
 If you use this dataset in your research, please include the following citation in any published results.
 ```
-@ARTICLE{9491158,</br>  
-author={Yohannes, Ervin and Lin, Chih-Yang and Shih, Timothy K. and Hong, Chen-Ya and Enkhbat, Avirmed and Utaminingrum, Fitri},</br>  
-journal={IEEE Access},</br>   
-title={Domain Adaptation Deep Attention Network for Automatic Logo Detection and Recognition in Google Street View},</br>   
-year={2021},</br>  
-volume={9},</br> 
-number={},</br>  
-pages={102623-102635},</br> 
-doi={10.1109/ACCESS.2021.3098713}}</br>
+@ARTICLE{9491158,
+author={Yohannes, Ervin and Lin, Chih-Yang and Shih, Timothy K. and Hong, Chen-Ya and Enkhbat, Avirmed and Utaminingrum, Fitri},  
+journal={IEEE Access},  
+title={Domain Adaptation Deep Attention Network for Automatic Logo Detection and Recognition in Google Street View},  
+year={2021},  
+volume={9},
+number={}, 
+pages={102623-102635}, 
+doi={10.1109/ACCESS.2021.3098713}}
 ```
