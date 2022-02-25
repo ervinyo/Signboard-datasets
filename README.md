@@ -21,6 +21,12 @@ our dataset is a signboard dataset containing 29,727 images with VOC annotation 
 
 <img src="img2.png">
 
+# Requirements
+1. install anaconda and python
+2. setting environment variable which using CUDAv10.0 and cudnn64_7(put in bin(.dll), include(.h), and lib x64(.lib))<a href="https://drive.google.com/drive/folders/1tElCRmh5O18gq_iTTMrTlSwgH1zvJKmV?usp=sharing">Download Here</a>
+3. install tensorflow-gpu=1.14.0
+4. install keras=2.2.4
+
 # Download
 The link for download the datasets and annotations as follow :
 
